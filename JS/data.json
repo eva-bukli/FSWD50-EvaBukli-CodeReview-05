@@ -1,0 +1,74 @@
+var movies =[{
+	"title": "Forrest Gump", 
+	"year": "1994", 
+	"description": "The presidencies of Kennedy and Johnson, Vietnam, Watergate, and other history unfold through the perspective of an Alabama man with an IQ of 75.",
+	"img":"img/01.jpg"
+}, {
+	"title": "John Wick", 
+	"year": "2014", 
+	"description": "An ex-hitman comes out of retirement to track down the gangsters that killed his dog and took everything from him.",
+	"img":"img/02.jpg"
+}, {
+	"title": "Moon", 
+	"year": "2009", 
+	"description": " Astronaut Sam Bell on the Moon, where he, working alongside his computer, sends back to Earth parcels of a resource that has helped diminish our planet's power problems.",
+	"img":"img/03.jpg"
+}, {
+	"title": "Inception", 
+	"year": "2010", 
+	"description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.",
+	"img":"img/09.jpg"
+}, {
+	"title": "The Green Mile", 
+	"year": "1999", 
+	"description": "The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.",
+	"img":"img/05.jpg"
+}, {
+	"title": "Donnie Darko", 
+	"year": "2001", 
+	"description": "A troubled teenager is plagued by visions of a man in a large rabbit suit who manipulates him to commit a series of crimes, after he escapes a bizarre accident.",
+	"img":"img/14.jpg"
+}, {
+	"title": "One Day", 
+	"year": "2011", 
+	"description": "After spending the night together on the night of their college graduation Dexter and Em are shown each year on the same date to see where they are in their lives.",
+	"img":"img/07.jpg"
+}, {
+	"title": "Truman Show", 
+	"year": "1998", 
+	"description": "An insurance salesman/adjuster discovers his entire life is actually a television show.",
+	"img":"img/12.jpg"
+}, {
+	"title": "Star Wars: Episode III - Revenge of the Sith", 
+	"year": "2005", 
+	"description": "As Obi-wan pursues a new threat, Anakin acts as a double agent between the Jedi Council and Palpatine and is lured into a sinister plan to rule the galaxy.",
+	"img":"img/04.jpg"
+}, {
+	"title": "Up", 
+	"year": "2009", 
+	"description": "Seventy-eight year old Carl Fredricksen travels to Paradise Falls in his home equipped with balloons, inadvertently taking a young stowaway.",
+	"img":"img/10.jpg"
+}, {
+	"title": "Pan's Labyrinth", 
+	"year": "2006", 
+	"description": "In the falangist Spain of 1944, the bookish young stepdaughter of a sadistic army officer escapes into an eerie but captivating fantasy world.",
+	"img":"img/11.jpg"
+}, {
+	"title": "Chronicle", 
+	"year": "2012", 
+	"description": "Three high school friends gain superpowers after making an incredible discovery underground.",
+	"img":"img/08.jpg"
+}, {
+	"title": "Interstellar", 
+	"year": "2014", 
+	"description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+	"img":"img/13.jpg"
+}, {
+	"title": "Howl's Moving Castle", 
+	"year": "2004", 
+	"description": "When a young woman is cursed with an old body by a witch, her only chance of breaking the spell lies with an insecure young wizard in his walking castle.",
+	"img":"img/06.jpg"
+}];
+
+
+
