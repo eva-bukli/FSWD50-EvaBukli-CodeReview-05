@@ -175,6 +175,18 @@ document.getElementById("thumb14").addEventListener("click", counter14);
 
 
 
+//animation
+$(document).ready(function(){
+    $(".like p ").click(function(){
+        var num = jQuery(this).children(".number");  
+
+        num.animate({padding: '10px 22px', fontSize: '30px'}, "slow");
+        num.animate({padding: '5px 12px', fontSize: '20px'}, "slow");
+    });
+});
+
+
+
 /*ranking - working on it
 
 function ranking () {
